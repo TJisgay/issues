@@ -1,0 +1,7 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}$ sudo apt install chromium xserver-xephyr libxtst-dev libpng++-dev python g++ make
+$ git clone https://github.com/misterhat/tetrio-bot
+$ cd tetrio-bot && npm install
